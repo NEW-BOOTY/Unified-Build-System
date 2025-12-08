@@ -9,7 +9,7 @@
 ║         Unified, Provenance-Tracked Build Orchestration      ║
 ║            Copyright © 2025 Devin B. Royal — CTO             ║
 ╚══════════════════════════════════════════════════════════════╝
-text**DUKE®-NEXUS** is the world’s first fully hermetic, content-addressed, policy-gated, provenance-tracked unified build system with native adapters for 11+ language ecosystems — engineered from the ground up as original IP by Devin B. Royal.
+**DUKE®-NEXUS** is the world’s first fully hermetic, content-addressed, policy-gated, provenance-tracked unified build system with native adapters for 11+ language ecosystems — engineered from the ground up as original IP by Devin B. Royal.
 
 ### Core Guarantees
 - **100% Hermetic** — No undeclared inputs, no network access by default  
